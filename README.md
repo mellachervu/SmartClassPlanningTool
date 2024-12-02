@@ -23,7 +23,7 @@ You can install these dependencies using the provided `requirements.txt` file.
 You can download the source code and installer for the **SmartClass Planning Tool** from the following links:
 
 - https://github.com/mellachervu/SmartClassPlanningTool
-- [Installer Package](<Insert your cloud storage link here>)
+- https://github.com/mellachervu/SmartClassPlanningTool/blob/master/SmartClassPlanningTool.exe
 
 Alternatively, you can download the files directly using the provided links.
 
