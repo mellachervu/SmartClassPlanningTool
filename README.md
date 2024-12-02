@@ -22,7 +22,7 @@ You can install these dependencies using the provided `requirements.txt` file.
 
 You can download the source code and installer for the **SmartClass Planning Tool** from the following links:
 
-- [Source Code](<Insert your cloud storage link here>)
+- https://github.com/mellachervu/SmartClassPlanningTool
 - [Installer Package](<Insert your cloud storage link here>)
 
 Alternatively, you can download the files directly using the provided links.
@@ -55,7 +55,8 @@ python main.py
 
 The program will process the required inputs and generate an output file (e.g., student_info_output.xlsx) containing the course plan, student progress, and other relevant data.
 
-Usage:
+**Usage**
+
 How to Use the SmartClass Planning Tool
 1. Input Files: Ensure that you have the required files in the same directory:
 
@@ -75,5 +76,16 @@ Course Plan for upcoming semesters
 
 4. Viewing the Results: The output will be saved in an Excel file (student_info_output.xlsx). You can open this file to review the student's academic progress and course planning.
 
-License:
+
+**Installer Set Up**
+
+1. For installation, unzip the project folder.
+2. Install Inno Setup software on the pc.
+3. After installation of Inno Setup, Open it and select a new script.
+4. A dialogue box appears, please add the necessary information.
+5. Load the project in the Inno Setup Wizard box.
+6. Compile it.
+7. After compilation, the desired application should be running.
+
+**License**
 The SmartClass Planning Tool is open-source software. Feel free to use and modify it according to your needs.
