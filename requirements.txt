@@ -1,0 +1,8 @@
+pandas
+PyPDF2
+requests
+beautifulsoup4
+openpyxl
+pytest
+ipywidgets
+matplotlib

@@ -1,0 +1,7 @@
+
+{
+    "pdf_path": "inputs/DegreeWorks.pdf",
+    "schedule_path": "inputs/four_year_schedule.xlsx",
+    "plans_path":  "inputs/Graduate_Study_Plans_revised.xlsx",
+    "course_desc_url": "https://catalog.columbusstate.edu/course-descriptions/cpsc/"
+}
