@@ -76,7 +76,7 @@ Course Plan for upcoming semesters
 
 4. Viewing the Results: The output will be saved in an Excel file (student_info_output.xlsx). You can open this file to review the student's academic progress and course planning.
 
-## Installer Set Up
+### Installer Set Up
 
 1. For installation, unzip the project folder.
 2. Install Inno Setup software on the pc.
