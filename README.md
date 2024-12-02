@@ -55,7 +55,7 @@ python main.py
 
 The program will process the required inputs and generate an output file (e.g., student_info_output.xlsx) containing the course plan, student progress, and other relevant data.
 
-### Step 3: Usage
+## Usage
 
 How to Use the SmartClass Planning Tool
 1. Input Files: Ensure that you have the required files in the same directory:
@@ -76,7 +76,7 @@ Course Plan for upcoming semesters
 
 4. Viewing the Results: The output will be saved in an Excel file (student_info_output.xlsx). You can open this file to review the student's academic progress and course planning.
 
-### Step 4: Installer Set Up
+## Installer Set Up
 
 1. For installation, unzip the project folder.
 2. Install Inno Setup software on the pc.
